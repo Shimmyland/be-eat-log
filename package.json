@@ -1,0 +1,30 @@
+{
+  "name": "be-eat-log",
+  "version": "1.0.0",
+  "description": "APIs - https://cloud.ouraring.com/v2/docs - https://developer.whoop.com/api/#tag/Cycle/operation/getCycleById",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@eslint/js": "^9.15.0",
+    "@types/express": "^5.0.0",
+    "@types/got": "^9.6.12",
+    "@types/node": "^22.9.0",
+    "@types/typescript": "^0.4.29",
+    "eslint": "^9.15.0",
+    "globals": "^15.12.0",
+    "nodemon": "^3.1.7",
+    "prettier": "^3.3.3",
+    "typescript": "^5.6.3",
+    "typescript-eslint": "^8.14.0"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "got": "^14.4.4"
+  }
+}
